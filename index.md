@@ -1,22 +1,26 @@
 ---
-title: 🦐Xiāqiú's Site🍥
+title: 🦐🍥ο(=•ω＜=)ρ⌒☆
 ---
-# <ruby>Xiā<rt>🦐</rt></ruby><ruby>qiú<rt>🍥</rt></ruby>'s Self-instruction
-## ⭐ Who I am
-My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, it's short for <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby>, which I've been using since about 2016 *(Find me everywhere as <ruby>Xiayigongheqiu<rt>虾夷共和球</rt></ruby>)*. And I am <ruby>GSRM<rt>🏳️‍⚧️</rt></ruby> (she/her, undergoing GAHT).
+## 🏳️‍⚧️ Who I am
+My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, it's short for <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby>, which I've been using since about 2016 *(Find me everywhere as <ruby>Xiayigongheqiu<rt>🦐🍥</rt></ruby>)*.
 
 ## 📚 What I Study
 - **Major**: <ruby>Big Data & Financial Management<rt>大数据与财务管理</rt></ruby>, <ruby>Accounting<rt>会计学</rt></ruby>.
 - **Cert.**: <ruby>Accounting Professional Qualification<rt>会计专业技术资格</rt></ruby>.
-- **Supreme Goal**: <ruby>CPA<rt>注册会计师</rt></ruby> (candidate).
+- **Supreme Goal**: <ruby>CPA<rt>注册会计师</rt></ruby> *(candidate now)*.
 
 ## 🎮 What I Like to Play
 - **Minecraft**: JEID: XiaYiGongHeQiu; BEID: XiaYGHQiu.
 - **Terraria** & **WarThunder**: Steam code: 1072946211.
 
-## 🗣️ What Languages I use
+## 🗣️ What Languages I Use
 - **Natural languages**: <ruby>Chinese<rt>中文</rt></ruby>, intermediate English, <ruby>Japanese<rt>日本語</rt></ruby> *(N5 & <ruby>Kanbun Kundoku<rt>漢文訓讀</rt></ruby>)*;
 - **Constructed languages**: <ruby>Esperanto<rt>💚</rt></ruby>;
-- **Programming languages** *(studying)*: SQL, Markdown, etc.
+- **Programming languages**: SQL, Markdown, etc. *(studying)*
+
+## 📮 Ways to Contact Me
+- [📧 Outlook](mailto:xiayigongheqiu@outlook.com)
+- [𝕏 / Twitter](https://x.com/XiaYiGongHeQiu)
+- [Bilibili](https://space.bilibili.com/40697031)
 
 > *"I dream of helping others with my abilities in the future. And feel free to chat or play with me <ruby>meow<rt>😽</rt></ruby>~"*
