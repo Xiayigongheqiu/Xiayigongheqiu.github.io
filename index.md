@@ -27,3 +27,5 @@ My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, it's short for <ruby>Xiāy
 [Click to Browse My Blog](/blog.html)
 
 > *"I dream of helping others with my abilities in the future. And feel free to chat or play with me <ruby>meow<rt>😽</rt></ruby>~"*
+## 💰 <ruby>如果有闲钱，欢迎请我喝杯赛博咖啡<rt>Spare some change? Buy me a coffee!</rt></ruby>~
+![🦐🍥的微信赞赏码](/images/mm_reward_qrcode_1786350679329.png)
