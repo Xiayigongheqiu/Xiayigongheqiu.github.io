@@ -1,4 +1,4 @@
-# 🦐Xiāqiú's Self-instruction🍥
+# Xiāqiú's Self-instruction
 - **Pseudonym**: Xiāqiú.[^1]
 
 - **Studies**: Accounting Professional Qualification & CPA[^2] etc.
