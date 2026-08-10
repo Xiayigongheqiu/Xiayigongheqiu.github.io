@@ -23,4 +23,7 @@ My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, it's short for <ruby>Xiāy
 - [𝕏 / Twitter](https://x.com/XiaYiGongHeQiu)
 - [Bilibili](https://space.bilibili.com/40697031)
 
+## 📒 Blog
+[Click to Browse My Blog](/blog.html)
+
 > *"I dream of helping others with my abilities in the future. And feel free to chat or play with me <ruby>meow<rt>😽</rt></ruby>~"*
