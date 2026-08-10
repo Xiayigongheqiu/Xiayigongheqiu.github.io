@@ -14,7 +14,7 @@ My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, it's short for <ruby>Xiāy
 - **Terraria** & **WarThunder**: Steam code: 1072946211.
 
 ## 🗣️ What Languages I Use
-- **Natural languages**: <ruby>Chinese<rt>中文</rt></ruby>, intermediate English, <ruby>Japanese<rt>日本語</rt></ruby> *(N5 & <ruby>Kanbun Kundoku<rt>漢文訓讀</rt></ruby>)*;
+- **Natural languages**: <ruby>Chinese<rt>中文</rt></ruby>, intermediate English, <ruby>Japanese<rt>日本語</rt></ruby> (N5 & <ruby>Kanbun Kundoku<rt>漢文訓讀</rt></ruby>);
 - **Constructed languages**: <ruby>Esperanto<rt>💚</rt></ruby>;
 - **Programming languages**: SQL, Markdown, VBA, etc. (<ruby>studying<rt>学习中</rt></ruby>).
 
@@ -27,5 +27,9 @@ My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, it's short for <ruby>Xiāy
 [Click to Browse My Blog](/blog.html)
 
 > *"I dream of helping others with my abilities in the future. And feel free to chat or play with me <ruby>meow<rt>😽</rt></ruby>~"*
+
 ## 💰 <ruby>如果有闲钱，欢迎请我喝杯赛博咖啡<rt>Spare some change? Buy me a coffee!</rt></ruby>~
-![🦐🍥的微信赞赏码](/images/mm_reward_qrcode_1786350679329.png)
+<img src="/images/weixinzanshangma.png" 
+     alt="🦐🍥的微信赞赏码" 
+     width="300" 
+     style="display: block; margin: 0 auto;">
