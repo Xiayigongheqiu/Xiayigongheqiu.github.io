@@ -33,3 +33,4 @@ exclude:
   - vendor/ruby/
 
 excerpt_separator: <!--more-->
+markdown: kramdown
