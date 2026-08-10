@@ -31,3 +31,5 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+excerpt_separator: <!--more-->
