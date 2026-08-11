@@ -3,9 +3,8 @@ layout: post
 title: "Blog测试暨杂项"
 date: 2026-08-10
 ---
-
-GAHT方案<ruby>费用<rt>expenses</rt></ruby>对比
 <!--more-->
+GAHT方案<ruby>费用<rt>expenses</rt></ruby>对比
 > 凝胶：3个月使用3+5=8支<br>
 总费用=8×130=1040元/3个月<br>
 每个月=1040/3=346.67元<br>
