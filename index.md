@@ -1,8 +1,11 @@
 ---
 title: 🦐虾夷共和球🍥ο(=•ω＜=)ρ⌒☆
 ---
-## 🏳️‍⚧️ Who I am
-My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, and it's short for <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby>, which I've been using since about 2016. Find me everywhere as <ruby>Xiayigongheqiu<rt>虾夷共和球</rt></ruby>. And I live in <ruby>Ŝāndōŋ<rt>山东</rt></ruby>, China.
+## 🏳️‍⚧️ Who I Am
+My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby> (Same username across all platforms).
+
+## 🗺️ Where I Am
+I live in <ruby>Ŝāndōŋ<rt>山东</rt></ruby>, and the <ruby>institute<rt>学院</rt></ruby> where I study is in <ruby>Láiŝān<rt>莱山</rt></ruby>, <ruby>Yāntái<rt>烟台</rt></ruby>. Besides, I'm also considering working in Jǐnán after passing part of the <ruby>CPA<rt>注册会计师</rt></ruby> exams in the future.
 
 ## 📚 What I Study
 - **Major**: <ruby>Big Data & Financial Management<rt>大数据与财务管理</rt></ruby>, <ruby>Accounting<rt>会计学</rt></ruby>.
@@ -13,7 +16,7 @@ My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, and it's short for <ruby>X
 - **Minecraft**
   - JEID: XiaYiGongHeQiu
   - BEID: XiaYGHQiu
-- **Terraria** & **WarThunder**
+- **Terraria**
   - Steam code: 1072946211
 - **<ruby>Linguistics<rt>Linguaphile</rt></ruby>**
   - <ruby>Hangul<rt>한글</rt></ruby>
@@ -24,8 +27,8 @@ My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, and it's short for <ruby>X
 - **Natural languages**
   - <ruby>Chinese<rt>中文</rt></ruby>
   - Intermediate English
-- **Constructed languages**: <ruby>Esperanto<rt>💚</rt></ruby>;
-- **Programming languages**: SQL, etc. (<ruby>studying<rt>学习中</rt></ruby>).
+- **Constructed languages**: <ruby>Esperanto<rt>💚</rt></ruby>
+- **Programming languages**: SQL, etc. (<ruby>studying<rt>学习中</rt></ruby>)
 
 ## 📮 Ways to Contact Me
 - [📧 Outlook](mailto:xiayigongheqiu@outlook.com)
