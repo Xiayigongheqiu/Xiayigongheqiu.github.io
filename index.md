@@ -1,5 +1,5 @@
 ---
-title: 🦐虾夷共和球🍥ο(=•ω＜=)ρ⌒☆
+title: 🦐虾夷共和球🍥
 ---
 ## 🏳️‍⚧️ Who I Am
 My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby> (Same username across all platforms).
@@ -28,7 +28,7 @@ I live in <ruby>Ŝāndōŋ<rt>山东</rt></ruby>, and the <ruby>institute<rt>学
   - <ruby>Chinese<rt>中文</rt></ruby>
   - Intermediate English
 - **Constructed languages**: <ruby>Esperanto<rt>💚</rt></ruby>
-- **Programming languages**: SQL, etc. (<ruby>studying<rt>学习中</rt></ruby>)
+- **Programming languages**: <ruby>SQL, etc.<rt>CAATs</rt></ruby> (<ruby>studying<rt>学习中</rt></ruby>)
 
 ## 📮 Ways to Contact Me
 - [📧 Outlook](mailto:xiayigongheqiu@outlook.com)
