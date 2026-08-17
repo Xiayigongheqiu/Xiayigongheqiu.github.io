@@ -2,14 +2,10 @@
 title: 🦐虾夷共和球🍥
 ---
 ## 🏳️‍⚧️ Who I Am
-My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby> (Same username across all platforms).
+My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby> (<ruby>same username across all platforms<rt>全网同名</rt></ruby>). I'm a <ruby>Big Data & Financial Management<rt>大数据与财务管理</rt></ruby> & <ruby>Accounting<rt>会计学</rt></ruby> student, who has obtained an <ruby>Accounting Professional Qualification<rt>会计专业技术资格</rt></ruby> and is pursuing higher education.
 
 ## 🗺️ Where I Am
 I live in <ruby>Ŝāndōŋ<rt>山东</rt></ruby>, and the <ruby>institute<rt>学院</rt></ruby> where I study is in <ruby>Láiŝān<rt>莱山</rt></ruby>, <ruby>Yāntái<rt>烟台</rt></ruby>.
-
-## 📚 What I Study
-- **Major**: <ruby>Big Data & Financial Management<rt>大数据与财务管理</rt></ruby>, <ruby>Accounting<rt>会计学</rt></ruby>.
-- **Cert.**: <ruby>Accounting Professional Qualification<rt>会计专业技术资格</rt></ruby>.
 
 ## ✨ What I'm Interested in
 - **Minecraft**
@@ -27,7 +23,7 @@ I live in <ruby>Ŝāndōŋ<rt>山东</rt></ruby>, and the <ruby>institute<rt>学
   - <ruby>Chinese<rt>中文</rt></ruby>
   - Intermediate English
 - **Constructed languages**: <ruby>Esperanto<rt>💚</rt></ruby>
-- **Programming languages**: SQL, etc. (<ruby>studying<rt>学习中</rt></ruby>)
+- **Computer languages**: SQL, etc. (<ruby>studying<rt>学习中</rt></ruby>)
 
 ## 📮 Ways to Contact Me
 - [📧 Outlook](mailto:xiayigongheqiu@outlook.com)
