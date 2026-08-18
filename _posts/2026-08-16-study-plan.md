@@ -31,3 +31,9 @@ date: 2026-08-16
 - About degrees in 2028 according to plan
 <h3 align="center"><ruby>經營學士<rt>경영학사</rt></ruby></h3>
 <h3 align="center"><ruby>經營科學<rt>경영과학</rt></ruby> 및 <ruby>工學<rt>공학</rt></ruby> <ruby>學生<rt>학생</rt></ruby></h3>
+또는
+<h3 align="center"><ruby>應用經濟學<rt>응용경제학</rt></ruby> <ruby>學生<rt>학생</rt></ruby></h3>
+
+---
+
+Last update: 2026-08-18
