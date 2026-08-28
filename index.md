@@ -2,7 +2,8 @@
 title: 虾夷共和球's Website
 ---
 ## 🏳️‍⚧️ Who I Am
-My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby>. I'm a student in the <ruby>Management<rt>管理学</rt></ruby> field, and the <ruby>institute<rt>学院</rt></ruby> where I study is in <ruby>Láishān<rt>莱山</rt></ruby>, <ruby>Yāntái<rt>烟台</rt></ruby>, <ruby>Shāndōng<rt>山东</rt></ruby>, <ruby>China<rt>中国</rt></ruby>.
+My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby>. I'm a <ruby>transfeminine<rt>🏳️‍⚧️</rt></ruby> student in the <ruby>Management<rt>管理学</rt></ruby> field, currently based in <ruby>Shandong<rt>山东</rt></ruby>, China.<br>
+Feel free to chat or play with me~ (*my contacts are on GitHub*)🐾
 
 ## 📚 What I'm Studying
 - **Majors** (*for a <ruby>bachelor's<rt>B.Mgt.</rt></ruby>*)
