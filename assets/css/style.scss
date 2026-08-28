@@ -3,34 +3,96 @@
 
 @import "{{ site.theme }}";
 
-/* 暗色模式 */
+/* ========== 暗色模式 ========== */
 @media (prefers-color-scheme: dark) {
+
+  /* 1. 彻底覆盖 body（去掉背景图 + 改文字颜色） */
   body {
-    background-color: #1a1a1a;
-    color: #e0e0e0;
+    background: #1a1a1a !important;   /* 用 background 而不是 background-color */
+    color: #e0e0e0 !important;
   }
 
+  /* 2. 头部 */
   header {
-    background-color: #111 !important;
+    background: #111 !important;
+    border-bottom-color: #333 !important;
   }
 
+  header h1 {
+    color: #fff !important;
+  }
+
+  header h2 {
+    color: #9ddcff !important;
+  }
+
+  /* 3. 正文区域标题（主题写死了 #474747） */
+  #main-content h1,
+  #main-content h2,
+  #main-content h3,
+  #main-content h4,
+  #main-content h5,
+  #main-content h6 {
+    color: #e8e8e8 !important;
+  }
+
+  /* 标题前的 / // /// 符号 */
+  #main-content h1:before,
+  #main-content h2:before,
+  #main-content h3:before,
+  #main-content h4:before,
+  #main-content h5:before,
+  #main-content h6:before {
+    color: #7eb8ff !important;
+  }
+
+  /* 4. 链接 */
   a {
-    color: #7eb8ff;
+    color: #7eb8ff !important;
   }
-
   a:hover {
-    color: #a8d0ff;
+    color: #a8d0ff !important;
   }
 
-  /* 代码块等 */
-  pre, code {
+  /* 5. 代码块 */
+  code, pre {
+    color: #e0e0e0 !important;
+  }
+  code {
     background-color: #2d2d2d !important;
-    color: #f0f0f0;
+    border-color: #444 !important;
+  }
+  pre {
+    background: #2d2d2d !important;
+    border-color: #444 !important;
+  }
+  pre code {
+    color: #7eb8ff !important;
+    background-color: transparent !important;
   }
 
-  /* 引用 */
+  /* 6. 引用 */
   blockquote {
-    border-left-color: #555;
-    color: #bbb;
+    border-left-color: #555 !important;
+    color: #bbb !important;
+  }
+
+  /* 7. 页脚 */
+  footer {
+    color: #888 !important;
+  }
+  footer a {
+    color: #aaa !important;
+  }
+
+  /* 8. 侧边栏（如果有） */
+  aside#sidebar {
+    background-image: none !important;
+    color: #ccc !important;
+  }
+
+  /* 9. 表格 */
+  table, th, td {
+    border-color: #444 !important;
   }
 }
