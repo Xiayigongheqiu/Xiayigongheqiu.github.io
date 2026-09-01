@@ -6,10 +6,10 @@ My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>X
 Feel free to chat or play with me~ ([*my contacts are on GitHub*](https://github.com/Xiayigongheqiu))🐾
 
 ## 📚 What I'm Studying
-- **Majors** (*for a <ruby>bachelor's<rt>B.Mgt.</rt></ruby>*)
+- **Majors** (*for a <ruby>bachelor's<rt>BMgt</rt></ruby>*)
   - <ruby>Big Data & Financial Management<rt>大数据与财务管理</rt></ruby>
   - <ruby>Accounting<rt>会计学</rt></ruby>
-- **Subjects** (*for a <ruby>master's<rt>M.Mgt.</rt></ruby>*)
+- **Subjects** (*for a master's*)
   - English Ⅰ
   - Mathematics Ⅲ
 - **Cert.** (*obtained*)
