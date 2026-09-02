@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blog测试暨杂项"
+title: "<s>Blog测试暨杂项</s>"
 date: 2026-08-10
 ---
 
