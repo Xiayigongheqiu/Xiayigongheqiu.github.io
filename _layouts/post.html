@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<!-- 在文章正文上方插入更新时间 -->
+{%- if page.last_modified_at -%}
+  <p style="color: #586069; font-size: 0.9em; margin-bottom: 20px;">
+    最后更新于：{{ page.last_modified_at | date: "%Y-%m-%d" }}
+  </p>
+{%- endif -%}
+
+<!-- 渲染文章正文 -->
+{{ content }}
