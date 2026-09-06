@@ -2,7 +2,7 @@
 layout: post
 title: "Study Plan"
 date: 2026-08-16
-last_modified_at: 2026-09-05
+last_modified_at: 2026-09-06
 ---
 
 <!--more-->
@@ -30,7 +30,9 @@ last_modified_at: 2026-09-05
 |16|Thesis|From the middle of 2027|
 
 - About degrees in 2028 according to plan
-<h3 align="center"><ruby>經營學士<rt>경영학사</rt></ruby></h3>
+<h3 align="center"><ruby>管理學士<rt>관리학사</rt></ruby></h3>
 <h3 align="center"><ruby>經營科學<rt>경영과학</rt></ruby> 및 <ruby>工學<rt>공학</rt></ruby> <ruby>學生<rt>학생</rt></ruby></h3>
+<h6 align="center"><ruby>或<rt>혹</rt></ruby>은</h6>
+<h3 align="center"><ruby>經營學<rt>경영학</rt></ruby> <ruby>學生<rt>학생</rt></ruby></h3>
 
 > *I am going to have my portraits taken in academic gowns after earning one of my degrees*🧑‍🎓🏳️‍⚧️
