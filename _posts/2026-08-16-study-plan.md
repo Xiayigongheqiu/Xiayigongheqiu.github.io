@@ -34,6 +34,6 @@ last_modified_at: 2026-09-07
 *About degrees in 2028 according to plan*
 
 **<ruby>管理學士<rt>관리학사</rt></ruby>**<br>
-**<ruby>經營科學<rt>경영과학</rt></ruby> 및 <ruby>工學<rt>공학</rt></ruby> <ruby>學生<rt>학생</rt></ruby>** *<ruby>或<rt>혹</rt></ruby>은* **<ruby>應用經濟學<rt>응용경제학</rt></ruby> <ruby>學生<rt>학생</rt></ruby>**
+**<ruby>經營科學<rt>경영과학</rt></ruby> 및 <ruby>工學<rt>공학</rt></ruby>**, **<ruby>經營學<rt>경영학</rt></ruby>**, <ruby>或<rt>혹</rt></ruby>은 **<ruby>應用經濟學<rt>응용경제학</rt></ruby> <ruby>學生<rt>학생</rt></ruby>**
 
 > *I am going to have my portraits taken in academic gowns after earning one of my degrees*🧑‍🎓🏳️‍⚧️
