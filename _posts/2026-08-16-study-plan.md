@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Study Plan"
+title: "The Study Plan (120203K)"
 date: 2026-08-16
 last_modified_at: 2026-09-07
 ---
 
 <!--more-->
 
-- Preview <ruby>calculus<rt>微积分</rt></ruby>, <ruby>linear algebra<rt>线性代数</rt></ruby> and <ruby>probability theory and mathematical statistics<rt>概率论与数理统计</rt></ruby>.
-- Courses of <ruby>STHEE<rt>Self-Taught Higher Education Examination</rt></ruby> ACCT
+[山东省高等教育自学考试在校生实践课程考核各试点专业课程设置表](https://sce.sdufe.edu.cn/info/1125/3371.htm)
 
 |No.|Courses|Other|
 |---|---|---|
