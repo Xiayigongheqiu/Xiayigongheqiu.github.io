@@ -3,7 +3,7 @@ title: 虾夷共和球's Website
 ---
 ## 🏳️‍⚧️ Who I Am
 My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby>. I'm a <ruby>transfeminine<rt>🏳️‍⚧️</rt></ruby> student in the <ruby>Management<rt>管理学</rt></ruby> field, currently based in <ruby>Shandong<rt>山东</rt></ruby>, China.<br>
-([*Feel free to chat or play with me~*](https://github.com/Xiayigongheqiu))🐾
+([<u>*Feel free to chat or play with me~*</u>](https://github.com/Xiayigongheqiu))🐾
 
 ## 📚 What I'm Studying
 - <ruby>Big Data & Financial Management<rt>大数据与财务管理</rt></ruby> (*for a diploma*)
@@ -22,7 +22,7 @@ My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>X
   - <ruby>Esperanto<rt>💚</rt></ruby>
 
 ## 📒 Blog
-[*Click to Browse My Blog*](/blog.html)
+[<u>*Click to Browse My Blog*</u>](/blog.html)
 
 ## 💰 <ruby>Spare some change? Buy me a coffee!<rt>如果有闲钱，欢迎请我喝杯赛博咖啡~</rt></ruby>
 <img src="/images/weixinzanshangma.png" 
