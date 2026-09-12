@@ -24,7 +24,7 @@ My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>X
     - <ruby>Esperanto<rt>💚</rt></ruby>
 
 ## 📒 Blog
-[*<u>Click to Browse My Blog</u>*](/blog.html)✍️
+[***<u>Click to Browse My Blog</u>***](/blog.html)✍️
 
 ## 💰 <ruby>Spare some change? Buy me a coffee!<rt>如果有闲钱，欢迎请我喝杯赛博咖啡~</rt></ruby>
 <img src="/images/weixinzanshangma.png" 
