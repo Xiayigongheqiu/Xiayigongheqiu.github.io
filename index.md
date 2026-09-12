@@ -8,7 +8,7 @@ My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>X
 ## 📚 What I'm Studying
 - <ruby>Big Data & Financial Management<rt>大数据与财务管理</rt></ruby> (*for a diploma*)
 - <ruby>Accounting<rt>会计学</rt></ruby> (*for a <ruby>bachelor's<rt>BMgt</rt></ruby>*)
-- <ruby>English Ⅰ<rt>201</rt></ruby> & <ruby>Mathematics Ⅲ<rt>303</rt></ruby> (*for a <ruby>master's<rt>MMgt/MEcon</rt></ruby>*)
+- <ruby>English Ⅰ<rt>201</rt></ruby> & <ruby>Mathematics Ⅲ<rt>303</rt></ruby> (*for a master's</ruby>*)
 - <ruby>Accounting Professional Qualification<rt>会计专业技术资格</rt></ruby> (*obtained*)
 
 ## ✨ What I'm Interested in
@@ -16,12 +16,10 @@ My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>X
   - JEID: `XiaYiGongHeQiu`
   - BEID: `XiaYGHQiu`
 - **Languages**
-  - Natural languages
-    - <ruby>Hangul<rt>한글</rt></ruby>
-    - <ruby>Cyrillic<rt>Кириллица</rt></ruby>
-    - <ruby>Japanese<rt>日本語</rt></ruby> (N5 & <ruby>Kanbun Kundoku<rt>漢文訓讀</rt></ruby>)
-  - Constructed languages
-    - <ruby>Esperanto<rt>💚</rt></ruby>
+  - <ruby>Hangul<rt>한글</rt></ruby>
+  - <ruby>Cyrillic<rt>Кириллица</rt></ruby>
+  - <ruby>Japanese<rt>日本語</rt></ruby> (N5 & <ruby>Kanbun Kundoku<rt>漢文訓讀</rt></ruby>)
+  - <ruby>Esperanto<rt>💚</rt></ruby>
 
 ## 📒 Blog
 [***<u>Click to Browse My Blog</u>***](/blog.html)✍️
