@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Bioeconomics"
+title: "Thoughts about Choosing"
 date: 2026-09-09
-last_modified_at: 2026-09-15
+last_modified_at: 2026-09-17
 ---
 
 <!--more-->
@@ -16,3 +16,11 @@ It is noteworthy that among Management Science and Engineering, Business Adminis
 ---
 
 Mathematics requirements must be considered. Mathematics requirements in Management Science & Engineering and Applied Economics are high. Business Administration is an option, because it also has quantitative content. Moreover, Business Administration, whose discipline code is 120200, belongs to the same field as Accounting, whose discipline code is 120203K.
+
+---
+
+Let's back to Management Science & Engineering or Business Administration.<br>
+I mean, a new success is necessary after nearly 10 years.<br>
+It is said that one's brain grows as one makes mistakes[^1].
+
+[^1]:https://www.bilibili.com/video/BV11K4y1m7x3/
