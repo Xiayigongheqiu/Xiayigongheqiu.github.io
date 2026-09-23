@@ -1,0 +1,9 @@
+<script type="module">
+  // 把 Jekyll 生成的语言标记转成 Mermaid 类
+  Array.from(document.getElementsByClassName("language-mermaid")).forEach(element => {
+    element.classList.add("mermaid");
+  });
+  // 动态引入 Mermaid 并渲染
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
