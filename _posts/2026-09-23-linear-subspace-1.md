@@ -80,7 +80,7 @@ RREF=\begin{pmatrix}
 $$
 
 ### C(A<sup>T</sup>)
-取RREF的非零行，即C(A<sup>T</sup>)=(1,0,0),(0,1,4)，dim C(A<sup>T</sup>)=r(A)=2。<br>
+取RREF的非零行，即C(A<sup>T</sup>)=(1,0,0)<sup>T</sup>,(0,1,4)<sup>T</sup>，dim C(A<sup>T</sup>)=r(A)=2。<br>
 ### N(A)
 解Rx=0，取自由变量的向量，即<br>
 
@@ -99,17 +99,7 @@ $$
 解得
 
 $$
-x=x_1\begin{pmatrix}
-0 \\
-0 \\
-0
-\end{pmatrix}+
-x_2\begin{pmatrix}
-0 \\
-0 \\
-0
-\end{pmatrix}+
-x_3\begin{pmatrix}
+x=x_3\begin{pmatrix}
 0 \\
 -4 \\
 1
