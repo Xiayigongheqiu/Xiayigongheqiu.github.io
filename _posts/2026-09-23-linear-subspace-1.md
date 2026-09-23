@@ -66,12 +66,14 @@ A=\begin{pmatrix}
 5 & 1 & 4
 \end{pmatrix}
 $$
+
 $$
 U=\begin{pmatrix}
 1 & 1 & 4 \\
 0 & -4 & -16
 \end{pmatrix}
 $$
+
 $$
 RREF=\begin{pmatrix}
 1 & 0 & 0 \\
@@ -137,4 +139,4 @@ y_2
 \end{pmatrix}=0
 $$
 
-解得y_1=y_2=0，即N(A<sup>T</sup>)=(0,0)<sup>T</sup>，dim N(A<sup>T</sup>)=0。
+解得y<sub>1</sub>=y<sub>2</sub>=0，即N(A<sup>T</sup>)=(0,0)<sup>T</sup>，dim N(A<sup>T</sup>)=0。
