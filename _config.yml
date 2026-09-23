@@ -36,3 +36,4 @@ excerpt_separator: <!--more-->
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+mermaid: true
