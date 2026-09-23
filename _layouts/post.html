@@ -21,3 +21,17 @@ layout: default
 </script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
 </script>
+<!-- 【新增】Mermaid 渲染流程图 -->
+<script type="module">
+  // 1. 将 Jekyll 默认生成的 language-mermaid 类转换为 mermaid 类
+  Array.from(document.getElementsByClassName("language-mermaid")).forEach(element => {
+    element.classList.add("mermaid");
+  });
+  
+  // 2. 从 CDN 动态导入 Mermaid 并初始化
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ 
+    startOnLoad: true, 
+    theme: 'default' // 你可以改为 'forest', 'dark', 'neutral' 等
+  });
+</script>
