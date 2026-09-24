@@ -37,5 +37,5 @@ last_modified_at: 2026-09-24
 
 > *I am going to have my portraits taken in academic gowns after earning one of my degrees*🧑‍🎓🏳️‍⚧️
 
-[^1]: https://sce.sdufe.edu.cn/zxks/mkxz_2026b_.htm
+[^1]: [山东省高等教育自学考试课程免考实施细则（2026版）](https://sce.sdufe.edu.cn/zxks/mkxz_2026b_.htm)
 [^2]: 依[《关于做好山东省2026年下半年高等教育自学考试毕业及实践性环节考核报名工作的通知》](https://www.sdzk.cn/NewsInfo.aspx?NewsID=7203)，里面提到“毕业考核（含本科论文答辩、毕业设计等）限考生在完成最后一门理论课程报名后选择报考，严禁提前报考”。加之计划中最后所报考的三科“马克思主义基本原理”、“英语”和“管理学”的实际报名时间为2027年6月，故实际上13、14、15、16可与3、4、6共同于10月完成考核，即所有STHEE课程理论上可以于2027年10月完成并在同年申报毕业（学位申报或可定于2028年上半年）。
