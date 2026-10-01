@@ -13,7 +13,7 @@ last_modified_at: 2026-10-01
 
 对于方程(A-λI)x=0：
 - 向量x在N(A-λI)中
-- 选取数λ使(A-λI)具有N(A-λI)
+- 选取数λ使(A-λI)具有零空间N(A-λI)
 - (A-λI)必须是奇异的，即det(A-λI)=0
 
 E.g.
@@ -80,10 +80,11 @@ $$
 
 ## 矩阵的对角化
 
-若α<sub>1</sub>、α<sub>2</sub>……α<sub>n</sub>为方阵A的**线性无关**的特征向量，则S=(α<sub>1</sub>,α<sub>2</sub>...α<sub>n</sub>)为特征向量矩阵，且S<sup>-1</sup>AS=Λ，Λ为特征值矩阵（对角矩阵），其主元分别别为对应α<sub>1</sub>、α<sub>2</sub>……α<sub>n</sub>特征向量的特征值λ<sub>1</sub>、λ<sub>2</sub>……λ<sub>n</sub>。<br>
+若α<sub>1</sub>、α<sub>2</sub>……α<sub>n</sub>为方阵A的n个线性无关的特征向量，则S=(α<sub>1</sub>,α<sub>2</sub>...α<sub>n</sub>)为特征向量矩阵，且S<sup>-1</sup>AS=Λ，Λ为特征值矩阵（对角矩阵），其主元分别别为对应α<sub>1</sub>、α<sub>2</sub>……α<sub>n</sub>特征向量的特征值λ<sub>1</sub>、λ<sub>2</sub>……λ<sub>n</sub>。<br>
 - AS=SΛ　S<sup>-1</sup>AS=Λ　A=SΛS<sup>-1</sup>
-- 若特征向量的个数小于A的阶数，则A不能对角化
+- 若线性无关的特征向量的个数小于A的阶数，则A不能对角化
 - 若A的特征值皆为0则A不可逆
 - 对于相异特征值λ<sub>1</sub>、λ<sub>2</sub>……λ<sub>n</sub>的特征向量α<sub>1</sub>、α<sub>2</sub>……α<sub>n</sub>一定线性无关
 - Λ<sup>k</sup>=S<sup>-1</sup>A<sup>k</sup>S；A<sup>k</sup>=SΛ<sup>k</sup>S<sup>-1</sup>
 - 若存在可逆矩阵M，使B=M<sup>-1</sup>AM，则A～B
+- 若A为n阶实对称矩阵（A=Aᵀ），则存在正交矩阵Q（由A的单位正交特征向量构成），使QᵀAQ=Λ
