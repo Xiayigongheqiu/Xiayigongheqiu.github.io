@@ -17,10 +17,14 @@ My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>X
   - <ruby>Japanese<rt>日本語</rt></ruby> (N5 & <ruby>Kanbun Kundoku<rt>漢文訓讀</rt></ruby>)
   - <ruby>Esperanto<rt>💚</rt></ruby>
 
-## 📒 Blog
-[***<u>Click to Browse My Blog</u>***](/blog.html)✍️
+## 🎯 What I'm Doing Now
+- Studying for diplomas in Big Data & Financial Management and in Accounting
+- Studying English and mathematics in preparation for further study in Management Science and Engineering
 
-## 💰 <ruby>Spare some change? Buy me a coffee!<rt>如果有闲钱，欢迎请我喝杯赛博咖啡~</rt></ruby>
+## 📝 [Blog](/blog.html)
+[***<u>Click to Browse My Blog</u>***](/blog.html)
+
+## 💴 <ruby>Spare some change? Buy me a coffee!<rt>如果有闲钱，欢迎请我喝杯赛博咖啡~</rt></ruby>
 <img src="/images/weixinzanshangma.png" 
      alt="🦐🍥的微信赞赏码" 
      width="200" 
