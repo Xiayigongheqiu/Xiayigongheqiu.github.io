@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "⭐The Study Plan (120203K)"
+title: "The Study Plan (120203K)"
 date: 2026-08-16
 last_modified_at: 2026-09-29
 ---
