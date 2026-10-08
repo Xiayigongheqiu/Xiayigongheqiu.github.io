@@ -2,7 +2,7 @@
 layout: post
 title: "The Study Plan (120203K)"
 date: 2026-08-16
-last_modified_at: 2026-09-29
+last_modified_at: 2026-10-08
 ---
 
 <!--more-->
@@ -16,8 +16,8 @@ last_modified_at: 2026-09-29
 |3|15044|Marxism|2nd half of the year 2027 (1/3)|
 |4|13000|English|2nd half of the year 2027 (2/3)|
 |5|00160|Auditing|1st half of the year 2027 (2/4)|
-|6|13683|Management|2nd half of the year 2027 (3/3)|
-|7|13887|Economics|1st half of the year 2027 (3/4)|
+|6|13683|Management|2nd half of the year 2027 (3/3)<sup>(interchangable)</sup>|
+|7|13887|Economics|1st half of the year 2027 (3/4)<sup>(interchangable)</sup>|
 |8|13751|Acct. Theory|*Studying*|
 |9|13140|Financial Acct.|1st half of the year 2027 (4/4)|
 |10|04184|Linear Algebra|*Studying*|
