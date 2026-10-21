@@ -2,11 +2,11 @@
 title: 虾夷共和球's Website
 ---
 ## 🏳️‍⚧️ Who I Am
-My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby>. I'm a transfeminine student of management, currently based in Shandong, China.
+My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby>. I'm a transfeminine student of <ruby>Econ/Mgt<rt>Economics/Management</rt></ruby>, currently based in Shandong, China.
 
 ## 📚 What I'm Studying
 - <ruby>Big Data & Financial Management<rt>大数据与财务管理</rt></ruby> and <ruby>Accounting<rt>会计学</rt></ruby> (*working towards diplomas*)
-- English Ⅰ & Mathematics Ⅲ (*for further study in, e.g., Management Science and Engineering*)
+- English Ⅰ & Mathematics Ⅲ (*for further study in economics or management*)
 
 ## ✨ What I'm Interested in
 - **Minecraft**
