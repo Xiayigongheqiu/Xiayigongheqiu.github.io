@@ -8,7 +8,7 @@ I'm a transfeminine student of management studying accounting and mathematics, c
 I built this site to introduce myself and share my blog posts. Thanks for stopping by!
 
 ## 📝 [Blog](/blog.html)
-### 最新文章
+### Recent Articles
 
 <ul>
   {% for post in site.posts limit:3 %}
