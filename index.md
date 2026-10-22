@@ -2,19 +2,12 @@
 title: 虾夷共和球's Website
 ---
 ## 🏳️‍⚧️ Who I Am
-My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby>. I'm a transfeminine student of management, currently based in Shandong, China.
+My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby>. I'm a transfeminine student of management, currently based in Shandong, China.<br>
+I'm also an Esperantist who is interested in languages and a Minecraft player whose JEID is `XiaYiGongHeQiu` and BEID is `XiaYGHQiu`. 😽
 
 ## 📚 What I'm Studying
-- <ruby>Big Data & Financial Management<rt>大数据与财务管理</rt></ruby> and <ruby>Accounting<rt>会计学</rt></ruby> (*working towards diplomas*)
-- English Ⅰ & Mathematics Ⅲ (*for further postgraduate study*)
-
-## ✨ What I'm Interested in
-- **Minecraft**
-  - JEID: `XiaYiGongHeQiu`
-  - BEID: `XiaYGHQiu`
-- **Languages**
-  - <ruby>Japanese<rt>日本語</rt></ruby> (N5 & <ruby>Kanbun Kundoku<rt>漢文訓讀</rt></ruby>)
-  - <ruby>Esperanto<rt>💚</rt></ruby>
+- Big Data & Financial Management & Accounting (*working towards diplomas*)
+- English & Mathematics (*for further education*)
 
 ## 📝 [Blog](/blog.html)
 [***<u>Click to Browse My Blog</u>***](/blog.html)
