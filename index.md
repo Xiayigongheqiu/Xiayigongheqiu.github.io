@@ -6,7 +6,7 @@ My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>X
 
 ## 📚 What I'm Studying
 - <ruby>Big Data & Financial Management<rt>大数据与财务管理</rt></ruby> and <ruby>Accounting<rt>会计学</rt></ruby> (*working towards diplomas*)
-- English Ⅰ & Mathematics Ⅲ (*for further study in economics or management*)
+- English Ⅰ & Mathematics Ⅲ (*for further postgraduate study*)
 
 ## ✨ What I'm Interested in
 - **Minecraft**
