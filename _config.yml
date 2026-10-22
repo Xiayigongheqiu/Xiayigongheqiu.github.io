@@ -35,5 +35,6 @@ exclude:
 excerpt_separator: <!--more-->
 markdown: kramdown
 kramdown:
+  input: GFM  # 使用 GitHub Flavored Markdown 解析，兼容性更好
+  syntax_highlighter: rouge
   math_engine: mathjax
-mermaid: true
