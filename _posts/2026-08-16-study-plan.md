@@ -2,7 +2,7 @@
 layout: post
 title: "The Study Plan (120203K)"
 date: 2026-08-16
-last_modified_at: 2026-10-08
+last_modified_at: 2026-10-25
 ---
 
 <!--more-->
@@ -18,19 +18,17 @@ last_modified_at: 2026-10-08
 |5|00160|Auditing|1st half of the year 2027 (2/4)|
 |6|13683|Management|2nd half of the year 2027 (3/3)|
 |7|13887|Economics|1st half of the year 2027 (3/4)[^2]|
-|8|13751|Acct. Theory|*Studying*|
-|9|13140|Financial Acct.|1st half of the year 2027 (4/4)|
-|10|04184|Linear Algebra|*Studying*|
-|11|08119|Management Acct.|*Studying*|
-|12|13752|Acct. Information System|*Studying*|
-|13|13750|Acct. Case Analysis[^3]|From the middle of 2027|
+|8|13751|Acct Theory|*Learnt*|
+|9|13140|Financial Acct|1st half of the year 2027 (4/4)|
+|10|04184|Linear Algebra|*Learnt*|
+|11|08119|Mgt Acct|*Learnt*|
+|12|13752|Acct IS|*Learnt*|
+|13|13750|Acct Case Analysis[^3]|From the middle of 2027|
 |14|14034|Internal Auditing[^3]|From the middle of 2027|
-|15|10625|Taxation Acct.[^3]|From the middle of 2027|
+|15|10625|Taxation Acct[^3]|From the middle of 2027|
 |16|06999|Thesis[^3]|From the middle of 2027|
 
----
-
-> *I am going to have my portraits taken in academic gowns after earning one of my degrees*🧑‍🎓🏳️‍⚧️
+🧑‍🎓🏳️‍⚧️
 
 [^1]: [山东省高等教育自学考试课程免考实施细则（2026版）](https://sce.sdufe.edu.cn/zxks/mkxz_2026b_.htm)
 [^2]: 依[通知公告](https://www.sdzk.cn/NewsList.aspx?BCID=1163&CID=26)，经济学原理（中级）似乎只在10月考季开设，请注意之。
