@@ -28,6 +28,17 @@ last_modified_at: 2026-10-26
 |15|10625|Taxation Acct|2027|
 |16|06999|Thesis[^2]|2027|
 
+---
+
+Remaining courses
+
+|Timeline|Planned|Delayed|
+|---|---|---|
+|2026-10|7 or 8||
+|2027-04|3 or 4||
+|2027-10|0||
+|2028-04|0|0|
+
 🧑‍🎓🏳️‍⚧️
 
 [^1]: [山东省高等教育自学考试课程免考实施细则（2026版）](https://sce.sdufe.edu.cn/zxks/mkxz_2026b_.htm)
