@@ -30,14 +30,14 @@ last_modified_at: 2026-10-26
 
 ---
 
-Remaining courses
+Remaining courses (except practical courses[^2])
 
 |Timeline|Planned|Delayed|
 |---|---|---|
-|2026-10|7 or 8||
-|2027-04|3 or 4||
-|2027-10|0||
-|2028-04|0|0|
+|2026-10/11|7 or 8||
+|2027-04/05|3 or 4||
+|2027-10/11|0||
+|2028-04/05|0|0|
 
 🧑‍🎓🏳️‍⚧️
 
