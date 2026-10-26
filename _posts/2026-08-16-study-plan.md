@@ -30,9 +30,9 @@ last_modified_at: 2026-10-26
 
 ---
 
-Remaining courses (except practical courses[^2])
+Timeline of the number of remaining courses (except practical courses[^2])
 
-|Timeline|Planned|Delayed|
+|Exam session|Planned remaining|Delayed remaining|
 |---|---|---|
 |2026-10/11|7 or 8||
 |2027-04/05|3 or 4||
