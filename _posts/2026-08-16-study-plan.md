@@ -2,31 +2,31 @@
 layout: post
 title: "The Study Plan (120203K)"
 date: 2026-08-16
-last_modified_at: 2026-10-26
+last_modified_at: 2026-10-27
 ---
 
 <!--more-->
 
 [山东省高等教育自学考试在校生实践课程考核各试点专业课程设置表](https://sce.sdufe.edu.cn/info/1125/3371.htm)
 
-|No.|Code|Courses|Other|
-|---|---|---|---|
-|1|15040|Xi Thoughts|*Exempted*[^1]|
-|2|15043|Outline of Modern Chinese History|2027-10|
-|3|15044|Marxism|2027-10|
-|4|13000|English|2027-10|
-|5|00160|Auditing|2027-04|
-|6|13683|Management|2027-04|
-|7|13887|Economics|2027-10|
-|8|13751|Acct Theory|*Learnt*|
-|9|13140|Financial Acct|2027-04|
-|10|04184|Linear Algebra|*Learnt*|
-|11|08119|Mgt Acct|*Learnt*|
-|12|13752|Acct IS|*Learnt*|
-|13|13750|Acct Case Analysis|2027|
-|14|14034|Internal Audit|2027|
-|15|10625|Taxation Acct|2027|
-|16|06999|Thesis[^2]|2027|
+|No.|Code|Courses|Other|Difficulty|
+|---|---|---|---|---|
+|1|15040|Xi Thoughts|*Exempted*[^1]|-|
+|2|15043|Modern Chinese History|2027-10|★|
+|3|15044|Marxism|2027-10|★|
+|4|13000|English|2027-10|★|
+|5|00160|Auditing|2027-04|★★★|
+|6|13683|Management|2027-04|★★|
+|7|13887|Economics|2027-10|★★|
+|8|13751|Acct Theory|*Learnt*|★★★|
+|9|13140|Financial Acct|2027-04|★|
+|10|04184|Linear Algebra|*Learnt*|-|
+|11|08119|Mgt Acct|*Learnt*|-|
+|12|13752|Acct IS|*Learnt*|-|
+|13|13750|Acct Case Analysis|2027|-|
+|14|14034|Internal Audit|2027|-|
+|15|10625|Taxation Acct|2027|-|
+|16|06999|Thesis[^2]|2027|-|
 
 ---
 
