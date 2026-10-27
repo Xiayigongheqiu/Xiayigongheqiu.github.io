@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Jurisprudence"
+date: 2026-10-27
+last_modified_at: 2026-10-27
+---
+
+<!--more-->
+
 ## (030100)<ruby>法学<rt>Jurisprudence</rt></ruby>
 - [济南大学“法学”一级学科硕士学位研究生培养方案（2022版）](https://yjs.ujn.edu.cn/info/1082/5686.htm)
 - [030100法学](https://yjs.ujn.edu.cn/info/1082/7646.htm)
