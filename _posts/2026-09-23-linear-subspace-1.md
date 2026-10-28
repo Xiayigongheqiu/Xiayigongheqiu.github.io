@@ -129,7 +129,7 @@ y_2
 $$
 
 $$
-R'y=\begin{pmatrix}
+R_{A^T}y=\begin{pmatrix}
 1 & 0 \\
 0 & 1 \\
 0 & 0
