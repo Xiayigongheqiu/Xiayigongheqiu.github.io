@@ -27,4 +27,12 @@ last_modified_at: 2026-10-28
 |(616) Comprehensive Law Ⅰ|120|
 |(816) Comprehensive Law Ⅱ|120|
 
+|(035101) Juris Master[^2]|Estimated score|
+|---|---|
+|(101) Politics|60%～60|
+|(201) English Ⅰ|80%～80|
+|(398) Juris Master Professional Foundation (Non-Law)|80%～120|
+|(498) Juris Master Comprehensive (Non-Law)|80%～120|
+
 [^1]: [济南大学“法学”一级学科硕士学位研究生培养方案（2022版）](https://yjs.ujn.edu.cn/info/1082/5686.htm)；[030100法学](https://yjs.ujn.edu.cn/info/1082/7646.htm)
+[^2]: [济南大学法律（非法学）全日制专业学位硕士研究生培养方案（2025版）](https://yjs.ujn.edu.cn/info/1082/19066.htm)
