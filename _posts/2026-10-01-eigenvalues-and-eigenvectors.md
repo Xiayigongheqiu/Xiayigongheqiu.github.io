@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eigenvalues and eigenvectors"
+title: "Eigenvalues & Eigenvectors"
 date: 2026-10-01
 last_modified_at: 2026-10-01
 ---
