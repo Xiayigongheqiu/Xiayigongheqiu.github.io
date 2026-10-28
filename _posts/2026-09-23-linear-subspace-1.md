@@ -2,7 +2,7 @@
 layout: post
 title: "Linear Subspaces & Gram–Schmidt Orthogonalization"
 date: 2026-09-23
-last_modified_at: 2026-09-28
+last_modified_at: 2026-10-28
 ---
 
 <!--more-->
@@ -82,9 +82,9 @@ RREF=\begin{pmatrix}
 \end{pmatrix}
 $$
 
-### C(A<sup>T</sup>)
+### C(A<sup>T</sup>)=R(A)
 取RREF的非零行，即C(A<sup>T</sup>)=(1,0,0)<sup>T</sup>,(0,1,4)<sup>T</sup>，dim C(A<sup>T</sup>)=r(A)=2。<br>
-### N(A)
+### N(A)=ker(A)
 解Rx=0，取自由变量的向量，即<br>
 
 $$
@@ -110,7 +110,7 @@ x=x_3\begin{pmatrix}
 $$
 
 即N(A)=(0,-4,1)<sup>T</sup>，dim N(A)=1。<br>
-### C(A)
+### C(A)=Im(A)
 取A中与RREF主元列相同的列，即<br>
 C(A)=(1,5)<sup>T</sup>,(1,1)<sup>T</sup>，dim C(A)=2。<br>
 ### N(A<sup>T</sup>)
