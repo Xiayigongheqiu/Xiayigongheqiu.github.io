@@ -2,7 +2,7 @@
 layout: post
 title: "freewriting20261012"
 date: 2026-10-12
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-31
 ---
 
 <!--more-->
@@ -20,3 +20,8 @@ A=l_a-r₁, B=l_c-r₂, R=r₁+r₂+δ (δ＞0)<br>
 
 > To pass all exams in 2027<br>
 > To obtain my diplomas and take the postgraduate entrance examination within 2027
+
+---
+
+> Due to a change in policy about MEM, etc., more intense competition could occur in certain fields related to Management Science & Engineering. Therefore it's necessary to check the proposed admission list for 2027 to assess the competition at that time.
+> (2026-10-31)
