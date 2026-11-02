@@ -20,7 +20,7 @@ The protagonist is named Shrimpball (or Xiāqiú in Chinese), who has been trans
 
 1. Emphasize the C-PTSD (especially cognitive distortions) caused by her experiences during her troubled high school years.
 2. Her first attempt to build a life ended after a desperate act of self-harm (possibly an overdose), after which she was transported to a fantasy world.
-3. The new world gave her new hope. She began to save herself by studying mathematics and working as a maid. In addition, her assigned sex was altered.
+3. The new world gave her new hope. She began to save herself by studying mathematical operational research and working as a maid. In addition, her assigned sex was altered.
 4. At an important event, she was hired by a vampire noble owning a grand mansion or estate. She entered noble social circles.
 5. Years passed; she rose from maid to the master's wife, and finally became a mother.
 6. Finally she passed away and woke up in the real world.
