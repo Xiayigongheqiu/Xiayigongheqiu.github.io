@@ -11,6 +11,8 @@ Due to the changes in policy regarding (125601) MEM and related programs beginni
 
 **(120100) Management Science & Engineering**
 
+<mark>**VENI VIDI VICI**</mark>
+
 |Year|Admission Quota|First-Choice Applicants|First-Choice Admissions|Share of First-Choice Admissions|
 |:---:|:---:|:---:|:---:|:---:|
 |2020|12|24|3|25%|
