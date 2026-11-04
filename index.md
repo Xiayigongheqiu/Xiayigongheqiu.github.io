@@ -3,7 +3,7 @@ title: 虾球's Website
 ---
 
 ## 🏳️‍⚧️ Who I Am
-Welcome to my personal website! My pseudonym is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby>, so please just call me <ruby>Xiāqiú<rt>虾球</rt></ruby>.
+Welcome to my personal website! My nickname is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for my original online name <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby>. I've been using it for a long time, so please just call me <ruby>Xiāqiú<rt>虾球</rt></ruby>.
 
 I'm a transfeminine student in the management discipline, currently based in Shandong, China. I'm also an Esperantist who is interested in languages and a Minecraft player whose JEID is `XiaYiGongHeQiu` and whose BEID is `XiaYGHQiu`.
 
