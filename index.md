@@ -1,5 +1,5 @@
 ---
-title: 虾夷共和球's Website
+title: 虾球's Website
 ---
 
 ## 🏳️‍⚧️ Who I Am
