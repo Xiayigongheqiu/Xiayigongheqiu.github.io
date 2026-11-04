@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-seo-tag
 
-title: 🦐XIĀQIÚ🌐
+title: Xiāqiú's Site
 description: Welcome to Xiāqiú's website
 url: "https://xiayigongheqiu.github.io"
 author: "Xiayigongheqiu"
