@@ -17,15 +17,18 @@ layout: default
     loader: {
       load: ['ui/lazy'],
       paths: {
-        mathjax: 'https://cdn.bootcdn.net/ajax/libs/mathjax/3.2.2/es5'
+        mathjax: '{{ site.baseurl }}/assets/vendor/mathjax/es5'
       }
     },
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']]
+    },
+    chtml: {
+      fontURL: '{{ site.baseurl }}/assets/vendor/mathjax/es5/output/chtml/fonts/woff-v2'
     }
   };
 </script>
-<script id="MathJax-script" async src="https://cdn.bootcdn.net/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js"></script>
+<script id="MathJax-script" async src="{{ site.baseurl }}/assets/vendor/mathjax/es5/tex-mml-chtml.js"></script>
 
 <!-- 【新增】Mermaid 渲染流程图 -->
 <script type="module">
