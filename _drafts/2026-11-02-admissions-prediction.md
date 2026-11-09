@@ -37,8 +37,6 @@ xychart-beta
 
 ## Applied Economics
 
-> It exhibits higher resilience against AI-driven substitution.
-
 |Year|Admission Quota|First-Choice Applicants|First-Choice Admissions|Share of First-Choice Admissions|
 |:---:|:---:|:---:|:---:|:---:|
 |2020|28|28|5|17.9%|
