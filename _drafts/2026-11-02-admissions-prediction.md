@@ -2,7 +2,7 @@
 layout: post
 title: "Admissions Prediction"
 date: 2026-11-02
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 <!--more-->
@@ -35,8 +35,9 @@ xychart-beta
 
 ---
 
-## Extra
-### Applied Economics
+## Applied Economics
+
+> It exhibits higher resilience against AI-driven substitution.
 
 |Year|Admission Quota|First-Choice Applicants|First-Choice Admissions|Share of First-Choice Admissions|
 |:---:|:---:|:---:|:---:|:---:|
