@@ -9,7 +9,7 @@ last_modified_at: 2026-11-09
 
 ## Management Science & Engineering
 
-Due to the changes in policy regarding (125601) MEM and related programs beginning in 2027, other disciplines, e.g., (120100) Management Science & Engineering, might be impacted to a certain extent. Therefore, the following records and predictions are necessary.
+> Due to the changes in policy regarding (125601) MEM and related programs beginning in 2027, other disciplines, e.g., (120100) Management Science & Engineering, might be impacted to a certain extent. Therefore, the following records and predictions are necessary.
 
 |Year|Admission Quota|First-Choice Applicants|First-Choice Admissions|Share of First-Choice Admissions|
 |:---:|:---:|:---:|:---:|:---:|
@@ -33,10 +33,7 @@ xychart-beta
     line "Share (%)" [25, 5.3, 15.8, 27.8, 16.7, 5.6, 27.8, 0]
 ```
 
----
-
-## Extra
-### Applied Economics
+## Applied Economics
 
 |Year|Admission Quota|First-Choice Applicants|First-Choice Admissions|Share of First-Choice Admissions|
 |:---:|:---:|:---:|:---:|:---:|
