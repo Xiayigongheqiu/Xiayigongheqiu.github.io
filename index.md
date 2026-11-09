@@ -5,7 +5,7 @@ title: 虾球's Website
 ## 🏳️‍⚧️ Who I Am
 Welcome to my personal website! My nickname is <ruby>Xiāqiú<rt>虾球</rt></ruby>, which is short for my original online name <ruby>Xiāyígònghéqiú<rt>虾夷共和球</rt></ruby>. I've been using it for a long time, so please just call me <ruby>Xiāqiú<rt>虾球</rt></ruby>.
 
-I'm a transfeminine student within the discipline of management, currently based in Shandong, China. I'm also an Esperantist who is interested in languages and a Minecraft player whose JEID is `XiaYiGongHeQiu` and whose BEID is `XiaYGHQiu`.
+I'm a transfeminine student of economics & management, currently based in Shandong, China. I'm also an Esperantist who is interested in languages and a Minecraft player whose JEID is `XiaYiGongHeQiu` and whose BEID is `XiaYGHQiu`.
 
 I built this site to introduce myself and share my blog posts. Thanks for stopping by!
 
