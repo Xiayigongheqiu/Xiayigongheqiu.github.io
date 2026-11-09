@@ -45,6 +45,7 @@ xychart-beta
 |2025|28|*unknown*|6<sup>?</sup>|21.4%|
 |2026|29|*unknown*|9<sup>?</sup>|31%|
 |2027|31|*unknown*|*TBD*|*TBD*|
+|2028|||||
 
 ```mermaid
 xychart-beta
