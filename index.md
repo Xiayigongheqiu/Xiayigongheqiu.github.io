@@ -23,5 +23,5 @@ I built this site to introduce myself and share my blog posts. Thanks for stoppi
 ## 🧧 <ruby>Spare some change? Buy me a coffee!<rt>如果有闲钱，欢迎请我喝杯赛博咖啡~</rt></ruby>
 <img src="/images/weixinzanshangma.png" 
      alt="🦐🍥的微信赞赏码" 
-     width="200" 
+     width="150" 
      style="display: block; margin: 0 auto;">
