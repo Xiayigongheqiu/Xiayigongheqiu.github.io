@@ -2,42 +2,33 @@
 layout: post
 title: "The Study Plan (120203K)"
 date: 2026-08-16
-last_modified_at: 2026-10-27
+last_modified_at: 2026-11-16
 ---
 
 <!--more-->
 
 [山东省高等教育自学考试在校生实践课程考核各试点专业课程设置表](https://sce.sdufe.edu.cn/info/1125/3371.htm)
 
-|No.|Code|Courses|Other|Difficulty|
-|---|---|---|---|---|
-|1|15040|Xi Thoughts|*Exempted*[^1]|-|
-|2|15043|Modern Chinese History|2027-10|★|
-|3|15044|Marxism|2027-10|★|
-|4|13000|English|2027-10|★|
-|5|00160|Auditing|2027-04|★★★|
-|6|13683|Management|2027-04|★★|
-|7|13887|Economics|2027-10|★★|
-|8|13751|Acct Theory|*Learnt*|★★★|
-|9|13140|Financial Acct|2027-04|★|
-|10|04184|Linear Algebra|*Learnt*|-|
-|11|08119|Mgt Acct|*Learnt*|-|
-|12|13752|Acct IS|*Learnt*|-|
-|13|13750|Acct Case Analysis|2027|-|
-|14|14034|Internal Audit|2027|-|
-|15|10625|Taxation Acct|2027|-|
-|16|06999|Thesis[^2]|2027|-|
+|No.|Code|Courses|Other|
+|---|---|---|---|
+|1|15040|Xi Thoughts|*Exempted*[^1]|
+|2|15043|Modern Chinese History|Oct 2027|
+|3|15044|Marxism|Oct 2027|
+|4|13000|English|Apr/Oct 2027|
+|5|00160|Auditing|Apr 2027|
+|6|13683|Management|Apr 2027|
+|7|13887|Economics|Oct/Apr 2027|
+|8|13751|Acct Theory|*Passed*|
+|9|13140|Financial Acct|Apr 2027|
+|10|04184|Linear Algebra|*Passed*|
+|11|08119|Mgt Acct|*Passed*|
+|12|13752|Acct IS|*Passed*|
+|13|13750|Acct Case Analysis|2027|
+|14|14034|Internal Audit|2027|
+|15|10625|Taxation Acct|2027|
+|16|06999|Thesis[^2]|2027|
 
 ---
-
-Timeline of the number of remaining courses (except practical courses[^2])
-
-|Exam session|Planned remaining|Delayed remaining|
-|---|---|---|
-|2026-10/11|7 or 8||
-|2027-04/05|3 or 4||
-|2027-10/11|0||
-|2028-04/05|0|0|
 
 🧑‍🎓🏳️‍⚧️
 
